@@ -1,4 +1,3 @@
-# Footprinting-Reconnaissance-Network-Scanning-
 # Week 2: Footprinting, Reconnaissance & Network Scanning (W2-PM-FINAL)
 
 **Author:** Shayan Rafiq  
