@@ -7,7 +7,7 @@
 ---
 
 ## 📄 Full Report
-- [Download Penetration Testing Report (.docx)](./W2-PM-FINAL_Report_Shayan_Rafiq.docx)
+[Download Penetration Testing Report (.docx)](./W2-PM-FINAl%20Pentester_Report_Shayan_Rafiq.docx)
 
 ---
 
